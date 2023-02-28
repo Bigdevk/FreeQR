@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Bigdevk/Free-QR-code",
+  "homepage": "https://github.com/Bigdevk/FreeQR",
   "name": "fweetoolsv1",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "vite": "^4.1.0"
-  }
+    "vite": "^4.1.0",
+     "base": "/FreeQR/"
+  } 
 }
